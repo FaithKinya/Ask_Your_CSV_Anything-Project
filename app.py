@@ -132,4 +132,4 @@ with tab2:
 
 # Footer
 st.markdown("---")
-st.markdown("Made using Python, Pandas, Plotly, and Streamlit")
+st.markdown("Made using Python, Pandas, Plotly, and Streamlit and **Llama 3** for question answering")

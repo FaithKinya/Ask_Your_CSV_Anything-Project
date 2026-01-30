@@ -12,3 +12,14 @@ about the Superstore dataset. It uses a hybrid approach:
 - Most profitable categories
 - Top-selling products
 - Fully interactive Streamlit dashboard
+
+## About
+
+This project is a CSV analytics assistant built with **Python, Pandas, Plotly, and Streamlit**.  
+It uses **Llama 3** (local/open-source LLM) for natural language question answering on the dataset, allowing users to ask questions like:
+
+- "Which category is most profitable?"  
+- "Sales per region"  
+- "Top-selling products"
+
+The dashboard also provides **interactive visualizations** and **KPI metrics**.
